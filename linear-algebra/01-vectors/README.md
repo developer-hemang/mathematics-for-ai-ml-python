@@ -51,9 +51,57 @@ That's a vector.
  ### Example
 
 $$
-\large  v = 5 \text{ meters east}
+\LARGE  v = 5 \text{ meters east}
 $$
 
 So:
 
 **Vector = magnitude + direction**
+
+A vector can be expressed or represented in several different ways, and understanding these representations is useful because AI/ML uses some of them heavily.
+
+1. A list of numbers
+2. A point in space
+3. An arrow
+
+## 1. Vector as a list of numbers
+
+#### Example: 
+
+$$
+v =
+\begin{bmatrix}
+1  \\
+3 
+\end{bmatrix}
+$$
+
+This is simply a list of components: [3,4]
+
+You can interpret it as:
+- 3 in the X dimension
+- 4 in the Y dimension
+
+In AI/ML, this is especially important.
+
+### For Example
+
+$$
+\begin{bmatrix}
+25000 \\
+25100 \\
+25050 \\
+1500000
+\end{bmatrix}
+$$
+
+could represent:
+
+``python
+[Open, Close, Low, High, Volume]
+
+``
+So:
+
+> Vector = ordered list of numbers
+This is probably the most important representation for ML.
