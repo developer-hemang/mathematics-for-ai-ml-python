@@ -51,7 +51,7 @@ That's a vector.
  ### Example
 
 $$
- v = 5 meters east
+ v = 5 \text{ meters east}
 $$
 
 So:
