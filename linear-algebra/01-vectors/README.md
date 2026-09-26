@@ -97,10 +97,10 @@ $$
 
 could represent:
 
-``python
+```python
 [Open, Close, Low, High, Volume]
 
-``
+```
 So:
 
 > Vector = ordered list of numbers
