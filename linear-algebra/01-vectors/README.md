@@ -146,21 +146,21 @@ but we can interpret that point as the vector:
 
 $$
 \begin{bmatrix}
-\\3
-\\4
+3 \\
+4 \\
 \end{bmatrix}
 $$
 
 starting from the origin:
 
 $$
-\LARG \text{(0,0)}
+\LARGE \text{(0,0)}
 $$
 
 so:
 
 $$
-\LARG \text{(0,0) → (3,4)}
+\LARGE \text{(0,0) → (3,4)}
 $$
 represents the vector.
 
@@ -169,7 +169,7 @@ represents the vector.
 Strictly speaking:
 
 $$
-\LARG \text{(3,4)}
+\LARGE \text{(3,4)}
 $$
 
 as a point means "the location at x=3 , y=4"
@@ -177,7 +177,7 @@ as a point means "the location at x=3 , y=4"
 While:
 
 $$
-\LARG v = \text{(3,4)}
+\LARGE v = \text{(3,4)}
 $$
 
 as a vector means "move 3 units in X and 4 units in Y."
