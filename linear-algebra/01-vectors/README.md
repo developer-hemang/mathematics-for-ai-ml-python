@@ -106,3 +106,79 @@ So:
 
 > Vector = ordered list of numbers
 This is probably the most important representation for ML.
+
+## 2. Vector as a point in space
+
+Take: 
+
+$$
+\begin{bmatrix}
+3 \\
+4 \\
+\end{bmatrix}
+$$
+
+we can plot the coordinates : 
+
+$$
+\LARGE   \text{ (3,4) }
+$$
+
+on a coordinate system:
+
+```python
+Y
+↑
+|
+|             ● (3,4)
+|
+|
+|
+|
++----------------------→ X
+0
+
+```
+
+Here, (3,4) is a point.
+
+but we can interpret that point as the vector:
+
+$$
+\begin{bmatrix}
+\\3
+\\4
+\end{bmatrix}
+$$
+
+starting from the origin:
+
+$$
+\LARG \text{(0,0)}
+$$
+
+so:
+
+$$
+\LARG \text{(0,0) → (3,4)}
+$$
+represents the vector.
+
+### important distinction 
+
+Strictly speaking:
+
+$$
+\LARG \text{(3,4)}
+$$
+
+as a point means "the location at x=3 , y=4"
+
+While:
+
+$$
+\LARG v = \text{(3,4)}
+$$
+
+as a vector means "move 3 units in X and 4 units in Y."
+They have the same coordinates but different interpretations.
