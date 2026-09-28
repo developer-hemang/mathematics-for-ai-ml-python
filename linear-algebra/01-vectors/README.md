@@ -189,7 +189,7 @@ They have the same coordinates but different interpretations.
 The same vector:
 
 $$
-v = 
+\LARGE v = 
 \begin{bmatrix}
 3 \\
 4 \\
