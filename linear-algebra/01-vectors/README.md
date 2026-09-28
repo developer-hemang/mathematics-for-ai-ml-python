@@ -238,3 +238,13 @@ $$ \LARGE \theta \approx 53.13^\circ $$
 So the arrow tells us:
 
 > Move 5 units in a direction of approximately 53.13°.
+
+
+# Row and column vectors
+
+
+$$ \LARGE \text{vectors}  \vec{a} = (3,4) \text{and}\vec{a} = (3,4,5) \text{can also be expressed as
+column matrices (also called column vectors)} $$
+
+ 
+$$ \LARGE \vec{a} = \begin{bmatrix} 3 \\ 4 \end{bmatrix} \quad \text{and} \quad \vec{b} = \begin{bmatrix} 3 \\ 4 \\ 5 \end{bmatrix} $$
