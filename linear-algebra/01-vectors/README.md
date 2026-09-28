@@ -159,9 +159,8 @@ $$
 
 so:
 
-$$
-\LARGE (0,0) \to (3,4)
-$$
+$$ \LARGE (0,0) \to (3,4) $$
+
 represents the vector.
 
 
