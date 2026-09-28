@@ -160,7 +160,7 @@ $$
 so:
 
 $$
-\LARGE \text{(0,0) → (3,4)}
+\LARGE  \text{(0,0)} \text{→} \text{(3,4)}
 $$
 represents the vector.
 
