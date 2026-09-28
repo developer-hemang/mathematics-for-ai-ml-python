@@ -195,3 +195,46 @@ $$
 4 \\
 \end{bmatrix}
 $$
+
+can be represented as an arrow:
+
+```python
+
+Y
+↑
+|
+|             ●
+|           ↗
+|         ↗
+|       ↗
+|     ↗
+|   ↗
+| ↗
+●------------------------→ X
+(0,0)
+
+```
+
+The arrow communicates two things:
+
+### Length
+
+The length represents the magnitude.
+
+# Vector Magnitude
+
+$$ \LARGE (0,0) \to (3,4) $$
+
+$$ \LARGE |v| = \sqrt{3^2 + 4^2} $$
+
+$$ \LARGE |v| = 5 $$
+
+### Direction
+
+The direction is approximately:
+
+$$ \LARGE \theta \approx 53.13^\circ $$
+
+So the arrow tells us:
+
+> Move 5 units in a direction of approximately 53.13°.
