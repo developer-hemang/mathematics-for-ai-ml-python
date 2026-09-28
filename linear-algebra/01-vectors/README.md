@@ -182,3 +182,16 @@ $$
 
 as a vector means "move 3 units in X and 4 units in Y."
 They have the same coordinates but different interpretations.
+
+
+## 3. Vector as an arrow
+
+The same vector:
+
+$$
+v = 
+\begin{bmatrix}
+3 \\
+4 \\
+\end{bmatrix}
+$$
