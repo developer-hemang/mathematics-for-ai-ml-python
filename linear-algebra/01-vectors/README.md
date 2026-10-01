@@ -243,14 +243,15 @@ So the arrow tells us:
 # Row and column vectors
 
 
-vectors 
+
 
 $$ \LARGE   \vec{a} = (3,4) $$
 
-and
+$$ \LARGE \text(and) $$
 
-$$ \LARGE \vec{a} = (3,4,5)  $$
-can also be expressed as column matrices (also called column vectors)
+$$ \LARGE \vec{a} = (3,4,5) $$
+
+$$ \text(can also be expressed as column matrices (also called column vectors)) $$
 
  
 
