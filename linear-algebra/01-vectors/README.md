@@ -251,7 +251,7 @@ $$ \LARGE \text(and) $$
 
 $$ \LARGE  \vec{a} = (3,4,5) $$
 
-$$ \text(can also be expressed as column matrices (also called column vectors)) $$
+$$ \LARGE \text{can also be expressed as column matrices (also called column vectors)} $$
 
  
 
